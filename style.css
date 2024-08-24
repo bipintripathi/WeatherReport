@@ -1,0 +1,45 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+}
+
+#weather-info {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#weather-info h2 {
+    margin-top: 0;
+}
+
+#loader {
+    margin-top: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+#weather-info {
+    margin-top: 20px;
+}
+.weather-item {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.weather-item i {
+    margin-right: 8px;
+    color: #007bff;
+}
+#loader {
+    display: none;
+}
+#loader.d-none {
+    display: none;
+}
